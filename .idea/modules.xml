@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/movie-plays-producer/kafka-quarkus-playground.iml" filepath="$PROJECT_DIR$/movie-plays-producer/kafka-quarkus-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-plays-consumer/movie-plays-consumer.iml" filepath="$PROJECT_DIR$/movie-plays-consumer/movie-plays-consumer.iml" />
+    </modules>
+  </component>
+</project>
